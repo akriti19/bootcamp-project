@@ -1,0 +1,28 @@
+------------------------------------------------------
+weather stats for - CHANDIGARH || 22 Jun 21 | 08:19:35 PM
+------------------------------------------------------
+Current temperature is: 35.11 deg C
+Current weather desc  :clear sky
+Current humidity      :21 %
+Current wind speed    :2.22 kmph
+------------------------------------------------------
+weather stats for - CHANDIGARH || 22 Jun 21 | 08:25:54 PM
+------------------------------------------------------
+Current temperature is: 35.11 deg C
+Current weather desc  :clear sky
+Current humidity      :21 %
+Current wind speed    :2.22 kmph
+------------------------------------------------------
+weather stats for - CHANDIGARH || 22 Jun 21 | 08:30:09 PM
+------------------------------------------------------
+Current temperature is: 35.11 deg C
+Current weather desc  :clear sky
+Current humidity      :21 %
+Current wind speed    :2.22 kmph
+------------------------------------------------------
+weather stats for - CHANDIGARH || 23 Jun 21 | 10:53:51 AM
+------------------------------------------------------
+Current temperature is: 38.39 deg C
+Current weather desc  :clear sky
+Current humidity      :22 %
+Current wind speed    :2.72 kmph
